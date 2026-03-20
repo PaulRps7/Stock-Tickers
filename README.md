@@ -26,4 +26,4 @@ This is a `json` list of the ticker symbols on that exchange. Nothing more.
 
 This is a newline separated `txt` list of the ticker symbols on the exchange. Nothing more. 
 ## All Symbols
-Some blue chip stock symbols may overlap in multiple exchanges due to multi-listings. I highly recommend just using one exchange list.
+Some symbols (escpecially blue chip stocks) may overlap in multiple exchanges due to multi-listings. I highly recommend just using a singular exchange.
